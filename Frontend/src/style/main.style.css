@@ -1,0 +1,20 @@
+ /* FONT */
+ @font-face {
+     font-family: "Segoe-Print-Font";
+     src: url("../font/Segoe-Print-Font.ttf");
+ }
+
+ @font-face {
+     font-family: "Typewriter";
+     src: url("../font/Lucida\ Sans\ Typewriter\ Bold.ttf");
+ }
+
+ @font-face {
+     font-family: "arial";
+     src: url("../font/arial.ttf");
+ }
+
+ @font-face {
+     font-family: "mvboli";
+     src: url("../font/mvboli.ttf");
+ }
